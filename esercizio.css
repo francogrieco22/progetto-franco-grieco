@@ -1,0 +1,71 @@
+.container{
+    width: 750px;
+    margin: auto;
+
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px; /* Aggiungi spazio interno se necessario */
+    border-radius: 10px; /* Aggiungi un arrotondamento ai bordi se desiderato */
+}
+
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+
+}
+
+
+.logo{
+    width: 165px;
+    margin-top: 75px; /* Regola il valore in base a quanto vuoi spostare l'immagine in basso */
+
+}
+
+.centrato{
+    text-align: center;
+}
+
+h2{
+    color:rgb(65, 212, 65);
+    margin-top: -5px;
+}
+
+.colore{
+    width: 90%; /*larghezza desiderata */
+    margin: auto;
+    height: 30px;
+    padding-top: 10px; /* Aggiunge 20 pixel di spazio sopra il contenuto dell'elemento */
+    background-color: rgb(65, 212, 65);  
+}
+
+p{
+    color: white;
+}
+
+.a1{
+ width: 90%; /*larghezza desiderata */
+    margin: auto;   
+}
+
+
+.vuoto{
+    width: 35%; /* Larghezza della linea al 100% del contenitore genitore */
+    height: 25px; /* Altezza della linea */
+    background-color: orange; 
+}
+
+
+
+.vuoto2{
+    width: 55%; /* Larghezza della linea al 100% del contenitore genitore */
+    height: 25px; /* Altezza della linea */
+    background-color: rgb(65, 212, 65); 
+}
+
+
+
+
+.vuoto3{
+    width: 20%; /* Larghezza della linea al 100% del contenitore genitore */
+    height: 25px; /* Altezza della linea */
+    background-color: brown; 
+}
